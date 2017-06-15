@@ -6,4 +6,5 @@ Supported versions: SQL Server 2005, SQL Server 2008, SQL Server 2008 R2, SQL Se
 <li>Backup: https://ola.hallengren.com/sql-server-backup.html</li>
 <li>Integrity Check: https://ola.hallengren.com/sql-server-integrity-check.html</li>
 <li>Index and Statistics Maintenance: https://ola.hallengren.com/sql-server-index-and-statistics-maintenance.html</li>
+<li>PASS Video: https://www.youtube.com/watch?v=4gt8NOggkJk</li>
 </ul>
